@@ -1,0 +1,187 @@
+2025-02-28T17:08:47Z - INFO - logger.py:45 - Successfully cloned repo for hugokar task 1
+2025-02-28T17:09:33Z - ERROR - logger.py:48 - Error cloning repo for hugokar task 1: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- git@gits-15.sys.kth.se:inda-24/hugokar-task-1.git /Users/maximilian/Documents/GitHub/INDA-manager/backend/data/repos/task-1/hugokar-task-1
+  stderr: 'fatal: destination path '/Users/maximilian/Documents/GitHub/INDA-manager/backend/data/repos/task-1/hugokar-task-1' already exists and is not an empty directory.
+'
+2025-02-28T17:10:37Z - INFO - logger.py:45 - Successfully cloned repo for hugokar task 1
+2025-02-28T17:11:37Z - INFO - logger.py:45 - Successfully cloned repo for hugokar task 1
+2025-02-28T17:12:12Z - INFO - logger.py:45 - Successfully cloned repo for hugokar task 1
+2025-02-28T17:48:44Z - ERROR - logger.py:48 - Error loading user data: name 'json' is not defined
+2025-02-28T17:48:45Z - INFO - logger.py:45 - Successfully cloned repo for hugokar task 1
+2025-02-28T17:48:45Z - ERROR - logger.py:48 - Error cloning repo for hugokar task 1: RepoServices.store_commit() missing 3 required positional arguments: 'commit_timestamp', 'commit_author', and 'commit_hash'
+2025-02-28T17:49:51Z - ERROR - logger.py:48 - Error cloning repo for hugokar task 1: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- git@gits-15.sys.kth.se:inda-24/hugokar-task-1.git /Users/maximilian/Documents/GitHub/INDA-manager/data/repos/task-1/hugokar-task-1
+  stderr: 'fatal: destination path '/Users/maximilian/Documents/GitHub/INDA-manager/data/repos/task-1/hugokar-task-1' already exists and is not an empty directory.
+'
+2025-02-28T17:57:31Z - ERROR - logger.py:48 - Error cloning repo for hugokar task 1: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- git@gits-15.sys.kth.se:inda-24/hugokar-task-1.git /Users/maximilian/Documents/GitHub/INDA-manager/data/repos/task-1/hugokar-task-1
+  stderr: 'fatal: destination path '/Users/maximilian/Documents/GitHub/INDA-manager/data/repos/task-1/hugokar-task-1' already exists and is not an empty directory.
+'
+2025-02-28T17:57:39Z - INFO - logger.py:45 - Successfully cloned repo for hugokar task 1
+2025-02-28T17:57:39Z - ERROR - logger.py:48 - Error cloning repo for hugokar task 1: RepoServices.store_commit() missing 3 required positional arguments: 'commit_timestamp', 'commit_author', and 'commit_hash'
+2025-02-28T17:58:27Z - ERROR - logger.py:48 - Error cloning repo for hugokar task 1: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- git@gits-15.sys.kth.se:inda-24/hugokar-task-1.git /Users/maximilian/Documents/GitHub/INDA-manager/data/repos/task-1/hugokar-task-1
+  stderr: 'fatal: destination path '/Users/maximilian/Documents/GitHub/INDA-manager/data/repos/task-1/hugokar-task-1' already exists and is not an empty directory.
+'
+2025-02-28T17:58:37Z - INFO - logger.py:45 - Successfully cloned repo for hugokar task 1
+2025-02-28T17:58:37Z - INFO - logger.py:45 - Successfully stored commit for hugokar task 1
+2025-02-28T17:58:37Z - ERROR - logger.py:48 - Error saving user data: Object of type datetime is not JSON serializable
+2025-02-28T17:59:13Z - ERROR - logger.py:48 - Error loading user data: Expecting value: line 15 column 37 (char 504)
+2025-02-28T17:59:14Z - INFO - logger.py:45 - Successfully cloned repo for hugokar task 1
+2025-02-28T17:59:31Z - ERROR - logger.py:48 - Error loading user data: Expecting value: line 1 column 1 (char 0)
+2025-02-28T17:59:32Z - INFO - logger.py:45 - Successfully cloned repo for hugokar task 1
+2025-02-28T17:59:52Z - ERROR - logger.py:48 - Error loading user data: [Errno 2] No such file or directory: '/Users/maximilian/Documents/GitHub/INDA-manager/data/info/users.json'
+2025-02-28T17:59:52Z - INFO - logger.py:45 - Successfully cloned repo for hugokar task 1
+2025-02-28T18:00:52Z - INFO - logger.py:45 - Created new user data file at /Users/maximilian/Documents/GitHub/INDA-manager/data/info/users.json
+2025-02-28T18:00:52Z - INFO - logger.py:45 - Successfully cloned repo for hugokar task 1
+2025-02-28T18:03:33Z - INFO - logger.py:45 - Successfully cloned repo for hugokar task 1
+2025-02-28T18:04:41Z - INFO - logger.py:45 - Successfully cloned repo for hugokar task 1
+2025-02-28T18:04:57Z - INFO - logger.py:45 - Successfully cloned repo for hugokar task 1
+2025-02-28T18:04:57Z - ERROR - logger.py:48 - Error cloning repo for hugokar task 1: name 'fetch_commit' is not defined
+2025-02-28T18:05:59Z - INFO - logger.py:45 - Successfully cloned repo for hugokar task 1
+2025-02-28T18:07:27Z - INFO - logger.py:45 - Successfully cloned repo for hugokar task 1
+2025-03-01T10:26:16Z - ERROR - logger.py:48 - Error loading user data: Expecting value: line 1 column 1 (char 0)
+2025-03-01T10:26:17Z - INFO - logger.py:45 - Successfully cloned repo for hugokar task 1
+2025-03-01T10:26:17Z - INFO - logger.py:45 - Successfully stored commit for hugokar task 1
+2025-03-01T10:34:09Z - ERROR - logger.py:49 - Error handling repo for hugokar-task-1: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- git@gits-15.sys.kth.se:inda-24/hugokar-task-1.git /Users/maximilian/Documents/GitHub/INDA-manager/data/repos/task-1/hugokar-task-1
+  stderr: 'fatal: destination path '/Users/maximilian/Documents/GitHub/INDA-manager/data/repos/task-1/hugokar-task-1' already exists and is not an empty directory.
+'
+2025-03-01T10:34:09Z - INFO - logger.py:46 - Successfully stored commit for hugokar-task-1
+2025-03-01T10:34:20Z - INFO - logger.py:46 - Successfully cloned repo for hugokar-task-1
+2025-03-01T10:34:20Z - INFO - logger.py:46 - Successfully stored commit for hugokar-task-1
+2025-03-01T10:36:43Z - ERROR - repo_services.py:74 - Error handling repo for hugokar-task-1: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- git@gits-15.sys.kth.se:inda-24/hugokar-task-1.git /Users/maximilian/Documents/GitHub/INDA-manager/data/repos/task-1/hugokar-task-1
+  stderr: 'fatal: destination path '/Users/maximilian/Documents/GitHub/INDA-manager/data/repos/task-1/hugokar-task-1' already exists and is not an empty directory.
+'
+2025-03-01T10:36:43Z - INFO - repo_services.py:106 - Successfully stored commit for hugokar-task-1
+2025-03-01T10:36:50Z - INFO - repo_services.py:70 - Successfully cloned repo for hugokar-task-1
+2025-03-01T10:36:50Z - INFO - repo_services.py:106 - Successfully stored commit for hugokar-task-1
+2025-03-01T10:37:24Z - ERROR - repo_services.py:74 - Error handling repo for hugokar-task-1: Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- git@gits-15.sys.kth.se:inda-24/hugokar-task-1.git /Users/maximilian/Documents/GitHub/INDA-manager/data/repos/task-1/hugokar-task-1
+  stderr: 'fatal: destination path '/Users/maximilian/Documents/GitHub/INDA-manager/data/repos/task-1/hugokar-task-1' already exists and is not an empty directory.
+'
+2025-03-01T10:37:24Z - INFO - repo_services.py:106 - Successfully stored commit for hugokar-task-1
+2025-03-01T11:30:18Z - INFO - repo_services.py:79 - Successfully cloned repo for hugokar-task-1
+2025-03-01T11:30:18Z - INFO - repo_services.py:116 - Successfully stored commit for hugokar-task-1
+2025-03-01T11:30:18Z - INFO - repo_services.py:116 - Successfully stored commit for hugokar-task-1
+2025-03-01T11:31:06Z - INFO - repo_services.py:72 - Successfully pulled changes for hugokar-task-1
+2025-03-01T11:31:06Z - INFO - repo_services.py:116 - Successfully stored commit for hugokar-task-1
+2025-03-03T12:32:09Z - INFO - repo_services.py:72 - Successfully pulled repo for hugokar-task-1
+2025-03-03T12:32:09Z - INFO - repo_services.py:116 - Successfully stored commit for hugokar-task-1
+2025-03-03T12:40:02Z - INFO - repo_services.py:73 - Successfully pulled repo for hugokar-task-1
+2025-03-03T12:40:02Z - INFO - repo_services.py:119 - Successfully stored commit for hugokar-task-1
+2025-03-03T12:40:02Z - INFO - repo_services.py:53 - Successfully saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/users.json
+2025-03-03T12:40:27Z - ERROR - repo_services.py:44 - Error loading user data: Expecting value: line 1 column 1 (char 0)
+2025-03-03T12:40:28Z - INFO - repo_services.py:80 - Successfully cloned repo for hugokar-task-1
+2025-03-03T12:40:28Z - INFO - repo_services.py:119 - Successfully stored commit for hugokar-task-1
+2025-03-03T12:40:28Z - INFO - repo_services.py:53 - Successfully saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/users.json
+2025-03-03T12:41:01Z - ERROR - repo_services.py:44 - Error loading user data: Expecting value: line 1 column 1 (char 0)
+2025-03-03T12:41:02Z - INFO - repo_services.py:80 - Successfully cloned repo for hugokar-task-1
+2025-03-03T12:41:02Z - INFO - repo_services.py:119 - Successfully stored commit for hugokar-task-1
+2025-03-03T12:41:02Z - INFO - repo_services.py:53 - Successfully saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/users.json
+2025-03-03T12:41:08Z - INFO - repo_services.py:73 - Successfully pulled repo for hugokar-task-1
+2025-03-03T12:41:08Z - INFO - repo_services.py:119 - Successfully stored commit for hugokar-task-1
+2025-03-03T12:41:08Z - INFO - repo_services.py:53 - Successfully saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/users.json
+2025-03-03T12:42:22Z - ERROR - repo_services.py:44 - Error loading user data: Expecting value: line 1 column 1 (char 0)
+2025-03-03T12:42:22Z - INFO - repo_services.py:80 - Successfully cloned repo for hugokar-task-1
+2025-03-03T12:42:22Z - INFO - repo_services.py:119 - Successfully stored commit for hugokar-task-1
+2025-03-03T12:42:22Z - INFO - repo_services.py:53 - Successfully saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/users.json
+2025-03-03T12:42:22Z - INFO - repo_services.py:119 - Successfully stored commit for hugokar-task-1
+2025-03-03T12:42:22Z - INFO - repo_services.py:53 - Successfully saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/users.json
+2025-03-03T12:42:50Z - INFO - repo_services.py:38 - Created new user data file at /Users/maximilian/Documents/GitHub/INDA-manager/data/info/users.json
+2025-03-03T12:42:51Z - INFO - repo_services.py:80 - Successfully cloned repo for hugokar-task-1
+2025-03-03T12:42:51Z - INFO - repo_services.py:119 - Successfully stored commit for hugokar-task-1
+2025-03-03T12:42:51Z - INFO - repo_services.py:53 - Successfully saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/users.json
+2025-03-03T12:44:28Z - ERROR - repo_services.py:44 - Error loading user data: Expecting value: line 1 column 1 (char 0)
+2025-03-03T12:44:29Z - INFO - repo_services.py:80 - Successfully cloned repo for hugokar-task-1
+2025-03-03T12:44:29Z - INFO - repo_services.py:119 - Successfully stored clone commit for hugokar-task-1
+2025-03-03T12:44:29Z - INFO - repo_services.py:53 - Successfully saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/users.json
+2025-03-03T12:44:34Z - INFO - repo_services.py:73 - Successfully pulled repo for hugokar-task-1
+2025-03-03T12:44:34Z - INFO - repo_services.py:119 - Successfully stored pull commit for hugokar-task-1
+2025-03-03T12:44:34Z - INFO - repo_services.py:53 - Successfully saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/users.json
+2025-03-03T13:50:29Z - INFO - repo_services.py:38 - Created new user data file at /Users/maximilian/Documents/GitHub/INDA-manager/data/info/users.json
+2025-03-03T13:50:29Z - INFO - repo_services.py:80 - ✅ Cloned repo for hugokar-task-1
+2025-03-03T13:50:29Z - INFO - repo_services.py:119 - ✅ Stored clone commit for hugokar-task-1
+2025-03-03T13:50:29Z - INFO - repo_services.py:53 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/users.json
+2025-03-03T13:51:35Z - ERROR - repo_services.py:44 - ❌ Error loading user data: Expecting value: line 1 column 1 (char 0)
+2025-03-03T13:51:35Z - INFO - repo_services.py:73 - ✅ Pulled repo for hugokar-task-1
+2025-03-03T13:51:35Z - INFO - repo_services.py:119 - ✅ Stored clone commit for hugokar-task-1
+2025-03-03T13:51:35Z - INFO - repo_services.py:53 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/users.json
+2025-03-03T15:02:40Z - INFO - repo_services.py:73 - ✅ Pulled repo for hugokar-task-1
+2025-03-03T15:02:40Z - INFO - repo_services.py:119 - ✅ Stored pull commit for hugokar-task-1
+2025-03-03T15:02:40Z - INFO - repo_services.py:53 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/users.json
+2025-03-03T15:02:51Z - INFO - repo_services.py:73 - ✅ Pulled repo for hugokar-task-1
+2025-03-03T15:02:51Z - INFO - repo_services.py:119 - ✅ Stored pull commit for hugokar-task-1
+2025-03-03T15:02:51Z - INFO - repo_services.py:53 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/users.json
+2025-03-03T15:02:59Z - INFO - repo_services.py:73 - ✅ Pulled repo for hugokar-task-1
+2025-03-03T15:02:59Z - INFO - repo_services.py:119 - ✅ Stored pull commit for hugokar-task-1
+2025-03-03T15:02:59Z - INFO - repo_services.py:53 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/users.json
+2025-03-03T15:02:59Z - INFO - repo_services.py:130 - Fetching issues for hugokar-task-3
+2025-03-03T15:03:08Z - INFO - repo_services.py:74 - ✅ Pulled repo for hugokar-task-1
+2025-03-03T15:03:08Z - INFO - repo_services.py:120 - ✅ Stored pull commit for hugokar-task-1
+2025-03-03T15:03:08Z - INFO - repo_services.py:54 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/users.json
+2025-03-03T15:03:08Z - INFO - repo_services.py:131 - Fetching issues for hugokar-task-3
+2025-03-03T15:03:16Z - INFO - repo_services.py:74 - ✅ Pulled repo for hugokar-task-1
+2025-03-03T15:03:16Z - INFO - repo_services.py:120 - ✅ Stored pull commit for hugokar-task-1
+2025-03-03T15:03:16Z - INFO - repo_services.py:54 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/users.json
+2025-03-03T15:03:16Z - INFO - repo_services.py:131 - Fetching issues for hugokar-task-1
+2025-03-03T15:04:23Z - INFO - repo_services.py:74 - ✅ Pulled repo for hugokar-task-1
+2025-03-03T15:04:23Z - INFO - repo_services.py:120 - ✅ Stored pull commit for hugokar-task-1
+2025-03-03T15:04:23Z - INFO - repo_services.py:54 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/users.json
+2025-03-03T15:04:23Z - INFO - repo_services.py:132 - Fetching issues for hugokar-task-1
+2025-03-03T15:04:49Z - INFO - repo_services.py:74 - ✅ Pulled repo for hugokar-task-1
+2025-03-03T15:04:49Z - INFO - repo_services.py:120 - ✅ Stored pull commit for hugokar-task-1
+2025-03-03T15:04:49Z - INFO - repo_services.py:54 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/users.json
+2025-03-03T15:04:49Z - INFO - repo_services.py:132 - Fetching issues for hugokar-task-1
+2025-03-03T15:06:19Z - INFO - repo_services.py:74 - ✅ Pulled repo for hugokar-task-1
+2025-03-03T15:06:19Z - INFO - repo_services.py:120 - ✅ Stored pull commit for hugokar-task-1
+2025-03-03T15:06:19Z - INFO - repo_services.py:54 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/users.json
+2025-03-03T15:06:19Z - INFO - repo_services.py:131 - Fetching issues for hugokar-task-1
+2025-03-03T16:58:40Z - INFO - repo_services.py:74 - ✅ Pulled repo for hugokar-task-1
+2025-03-03T16:58:41Z - INFO - repo_services.py:120 - ✅ Stored pull commit for hugokar-task-1
+2025-03-03T16:58:41Z - INFO - repo_services.py:54 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-03T16:58:41Z - INFO - repo_services.py:131 - ⤵️ Fetching issues for hugokar-task-1
+2025-03-03T16:58:57Z - INFO - repo_services.py:74 - ✅ Pulled repo for hugokar-task-1
+2025-03-03T16:58:57Z - INFO - repo_services.py:120 - ✅ Stored pull commit for hugokar-task-1
+2025-03-03T16:58:57Z - INFO - repo_services.py:54 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-03T16:58:57Z - INFO - repo_services.py:131 - ⤵️ Fetching issues for hugokar-task-1
+2025-03-03T17:03:18Z - ERROR - repo_services.py:24 - ❌ Environment variables TA_HANDLE or GITHUB_PAT are not set.
+2025-03-03T17:03:39Z - ERROR - repo_services.py:24 - ❌ Environment variables TA_HANDLE or GITHUB_PAT are not set.
+2025-03-03T17:03:53Z - INFO - repo_services.py:75 - ✅ Pulled repo for hugokar-task-1
+2025-03-03T17:03:53Z - INFO - repo_services.py:121 - ✅ Stored pull commit for hugokar-task-1
+2025-03-03T17:03:53Z - INFO - repo_services.py:55 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-03T17:03:53Z - INFO - repo_services.py:132 - ⤵️ Fetching issues for hugokar-task-1
+2025-03-03T17:04:27Z - INFO - repo_services.py:75 - ✅ Pulled repo for hugokar-task-1
+2025-03-03T17:04:27Z - INFO - repo_services.py:121 - ✅ Stored pull commit for hugokar-task-1
+2025-03-03T17:04:27Z - INFO - repo_services.py:55 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-03T17:04:27Z - INFO - repo_services.py:132 - ⤵️ Fetching issues for hugokar-task-1
+2025-03-03T17:04:46Z - ERROR - repo_services.py:24 - ❌ Environment variables TA_HANDLE or GITHUB_PAT are not set.
+2025-03-03T17:05:32Z - ERROR - repo_services.py:25 - ❌ Environment variables TA_HANDLE or GITHUB_PAT are not set.
+2025-03-03T17:06:25Z - ERROR - repo_services.py:24 - ❌ Environment variables TA_HANDLE or GITHUB_PAT are not set.
+2025-03-03T17:07:05Z - ERROR - repo_services.py:25 - ❌ Environment variables TA_HANDLE or GITHUB_PAT are not set.
+2025-03-03T17:07:43Z - ERROR - repo_services.py:24 - ❌ Environment variables TA_HANDLE or GITHUB_PAT are not set.
+2025-03-03T17:08:36Z - INFO - repo_services.py:73 - ✅ Pulled repo for hugokar-task-1
+2025-03-03T17:08:36Z - INFO - repo_services.py:119 - ✅ Stored pull commit for hugokar-task-1
+2025-03-03T17:08:36Z - INFO - repo_services.py:53 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-03T17:08:36Z - INFO - repo_services.py:130 - ⤵️ Fetching issues for hugokar-task-1
+2025-03-03T17:09:30Z - INFO - repo_services.py:71 - ✅ Pulled repo for hugokar-task-1
+2025-03-03T17:09:30Z - INFO - repo_services.py:117 - ✅ Stored pull commit for hugokar-task-1
+2025-03-03T17:09:30Z - INFO - repo_services.py:51 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-03T17:09:30Z - INFO - repo_services.py:128 - ⤵️ Fetching issues for hugokar-task-1
+2025-03-03T17:09:42Z - INFO - repo_services.py:72 - ✅ Pulled repo for hugokar-task-1
+2025-03-03T17:09:42Z - INFO - repo_services.py:118 - ✅ Stored pull commit for hugokar-task-1
+2025-03-03T17:09:42Z - INFO - repo_services.py:52 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-03T17:09:42Z - INFO - repo_services.py:129 - ⤵️ Fetching issues for hugokar-task-1
+2025-03-03T17:10:23Z - INFO - repo_services.py:73 - ✅ Pulled repo for hugokar-task-1
+2025-03-03T17:10:23Z - INFO - repo_services.py:119 - ✅ Stored pull commit for hugokar-task-1
+2025-03-03T17:10:23Z - INFO - repo_services.py:53 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-03T17:10:23Z - INFO - repo_services.py:130 - ⤵️ Fetching issues for hugokar-task-1
+2025-03-03T17:10:38Z - INFO - repo_services.py:74 - ✅ Pulled repo for hugokar-task-1
+2025-03-03T17:10:38Z - INFO - repo_services.py:120 - ✅ Stored pull commit for hugokar-task-1
+2025-03-03T17:10:38Z - INFO - repo_services.py:54 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-03T17:10:38Z - INFO - repo_services.py:131 - ⤵️ Fetching issues for hugokar-task-1
+2025-03-03T17:11:49Z - INFO - repo_services.py:73 - ✅ Pulled repo for hugokar-task-1
+2025-03-03T17:11:49Z - INFO - repo_services.py:119 - ✅ Stored pull commit for hugokar-task-1
+2025-03-03T17:11:49Z - INFO - repo_services.py:53 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-03T17:11:49Z - INFO - repo_services.py:130 - ⤵️ Fetching issues for hugokar-task-1
