@@ -216,3 +216,12 @@
 2025-03-13T15:01:35Z - INFO - repo_services.py:142 - ⤵️  Fetching issues for hugokar-task-1
 2025-03-13T15:01:35Z - INFO - repo_services.py:176 - ✅ Updated issues for hugokar-task-1
 2025-03-13T15:01:35Z - INFO - repo_services.py:60 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-13T15:06:31Z - INFO - repo_services.py:142 - ⤵️  Fetching issues for hugokar-task-1
+2025-03-13T15:06:31Z - DEBUG - repo_services.py:155 - Skipping issue with title: Test issue
+2025-03-13T15:06:31Z - INFO - repo_services.py:176 - ✅ Updated issues for hugokar-task-1
+2025-03-13T15:06:31Z - INFO - repo_services.py:60 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-13T15:06:31Z - INFO - repo_services.py:93 - ✅ Cloned repo for test_user-task-1
+2025-03-13T15:06:31Z - INFO - repo_services.py:142 - ⤵️  Fetching issues for test_user-task-1
+2025-03-13T15:06:31Z - ERROR - repo_services.py:47 - ❌ Error loading user data: File is empty. (Can be ignored)
+2025-03-13T15:06:31Z - DEBUG - repo_services.py:48 - ✅ Creating new user data structure.
+2025-03-13T15:06:31Z - INFO - repo_services.py:60 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json

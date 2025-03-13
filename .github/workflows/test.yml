@@ -9,13 +9,22 @@ on:
       - main
 
 jobs:
-    test:
+  test:  # <-- Incorrect indentation was here
     runs-on: ubuntu-latest
+
     strategy:
       matrix:
         python-version: ["3.10", "3.11", "3.12", "3.13"]
 
-    steps:
+      steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set environment variables
+        run: |
+          echo "GITHUB_PAT=${{ secrets.PAT }}" >> $GITHUB_ENV
+          echo "TA_HANDLE=${{ secrets.TA_HANDLE }}" >> $GITHUB_ENV
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
