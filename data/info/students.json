@@ -1,0 +1,16 @@
+{
+    "students": {
+        "hugokar": {
+            "1": {
+                "issues": {
+                    "Pass": {
+                        "title": "Pass",
+                        "body": "Bra skriven kod, kul att du använde egna test värden",
+                        "state": "open",
+                        "date": "2024-09-09T12:14:26Z"
+                    }
+                }
+            }
+        }
+    }
+}

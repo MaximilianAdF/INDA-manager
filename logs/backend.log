@@ -185,3 +185,34 @@
 2025-03-03T17:11:49Z - INFO - repo_services.py:119 - ✅ Stored pull commit for hugokar-task-1
 2025-03-03T17:11:49Z - INFO - repo_services.py:53 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
 2025-03-03T17:11:49Z - INFO - repo_services.py:130 - ⤵️ Fetching issues for hugokar-task-1
+2025-03-06T15:01:00Z - ERROR - repo_services.py:46 - ❌ Error loading user data: Expecting value: line 1 column 1 (char 0)
+2025-03-06T15:01:00Z - INFO - repo_services.py:140 - ⤵️ Fetching issues for hugokar-task-1
+2025-03-06T15:01:00Z - INFO - repo_services.py:174 - ✅ Updated issues for hugokar-task-1
+2025-03-06T15:01:00Z - INFO - repo_services.py:55 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-06T15:02:40Z - INFO - repo_services.py:140 - ⤵️ Fetching issues for hugokar-task-1
+2025-03-06T15:02:40Z - INFO - repo_services.py:174 - ✅ Updated issues for hugokar-task-1
+2025-03-06T15:02:40Z - INFO - repo_services.py:55 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-06T15:07:15Z - ERROR - repo_services.py:47 - ❌ Error loading user data: File is empty.
+2025-03-06T15:07:15Z - DEBUG - repo_services.py:48 - ✅ Creating new user data structure.
+2025-03-06T15:07:15Z - INFO - repo_services.py:145 - ⤵️  Fetching issues for hugokar-task-1
+2025-03-06T15:07:15Z - INFO - repo_services.py:179 - ✅ Updated issues for hugokar-task-1
+2025-03-06T15:07:15Z - INFO - repo_services.py:60 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-06T15:08:52Z - INFO - repo_services.py:145 - ⤵️  Fetching issues for hugokar-task-1
+2025-03-06T15:08:52Z - INFO - repo_services.py:179 - ✅ Updated issues for hugokar-task-1
+2025-03-06T15:08:52Z - INFO - repo_services.py:60 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-06T15:09:01Z - ERROR - repo_services.py:47 - ❌ Error loading user data: File is empty.
+2025-03-06T15:09:01Z - DEBUG - repo_services.py:48 - ✅ Creating new user data structure.
+2025-03-06T15:09:01Z - INFO - repo_services.py:145 - ⤵️  Fetching issues for hugokar-task-1
+2025-03-06T15:09:01Z - INFO - repo_services.py:179 - ✅ Updated issues for hugokar-task-1
+2025-03-06T15:09:01Z - INFO - repo_services.py:60 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-06T15:10:07Z - INFO - repo_services.py:145 - ⤵️  Fetching issues for hugokar-task-1
+2025-03-06T15:10:07Z - INFO - repo_services.py:179 - ✅ Updated issues for hugokar-task-1
+2025-03-06T15:10:07Z - INFO - repo_services.py:60 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-07T13:37:45Z - ERROR - repo_services.py:47 - ❌ Error loading user data: File is empty. (Can be ignored)
+2025-03-07T13:37:45Z - DEBUG - repo_services.py:48 - ✅ Creating new user data structure.
+2025-03-07T13:37:45Z - INFO - repo_services.py:145 - ⤵️  Fetching issues for hugokar-task-1
+2025-03-07T13:37:45Z - INFO - repo_services.py:179 - ✅ Updated issues for hugokar-task-1
+2025-03-07T13:37:45Z - INFO - repo_services.py:60 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-13T15:01:35Z - INFO - repo_services.py:142 - ⤵️  Fetching issues for hugokar-task-1
+2025-03-13T15:01:35Z - INFO - repo_services.py:176 - ✅ Updated issues for hugokar-task-1
+2025-03-13T15:01:35Z - INFO - repo_services.py:60 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
