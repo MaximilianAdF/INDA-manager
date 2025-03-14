@@ -65,7 +65,9 @@ class RepoServices:
 
 
     def clone_repo(self, user_handle: str, task_number: str) -> dict:
-        """Function to clone/pull a repository for a given user and task number."""
+        """Function to clone/pull a repository for a given user and task number.
+        Check if it exists, pull latest changes, fetch latest commit, store commit in JSON."""
+        
         repo_dir = self.repo_path / f"task-{task_number}" / f"{user_handle}-task-{task_number}"
 
         try: 
@@ -87,7 +89,7 @@ class RepoServices:
 
             else:
                 Repo.clone_from(
-                    f"git@gits-15.sys.kth.se:inda-24/{user_handle}-task-{task_number}.git",
+                    f"git@gits-15.sys.kth.se:{self.org_name}/{user_handle}-task-{task_number}.git",
                     f"{self.repo_path}/task-{task_number}/{user_handle}-task-{task_number}"
                 )
                 log_info(f"✅ Cloned repo for {user_handle}-task-{task_number}")
@@ -205,7 +207,7 @@ class RepoServices:
             return {"status": "failed", "reason": response.json()["message"]}
 
 
-test = RepoServices("inda-24")
+#test = RepoServices("inda-24")
 #print(test.clone_repo("hugokar", "1"))
-print(test.fetch_issue("hugokar", "1"))
-print(test.create_issue("hugokar", "1", "Test issue", "This is a test issue."))
+#print(test.fetch_issue("hugokar", "1"))
+#print(test.create_issue("hugokar", "1", "Test issue", "This is a test issue."))

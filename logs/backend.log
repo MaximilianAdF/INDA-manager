@@ -225,3 +225,57 @@
 2025-03-13T15:06:31Z - ERROR - repo_services.py:47 - ❌ Error loading user data: File is empty. (Can be ignored)
 2025-03-13T15:06:31Z - DEBUG - repo_services.py:48 - ✅ Creating new user data structure.
 2025-03-13T15:06:31Z - INFO - repo_services.py:60 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-14T14:19:32Z - INFO - repo_services.py:142 - ⤵️  Fetching issues for hugokar-task-1
+2025-03-14T14:19:33Z - DEBUG - repo_services.py:155 - Skipping issue with title: Test issue
+2025-03-14T14:19:33Z - DEBUG - repo_services.py:155 - Skipping issue with title: Test issue
+2025-03-14T14:19:33Z - DEBUG - repo_services.py:155 - Skipping issue with title: Test issue
+2025-03-14T14:19:33Z - DEBUG - repo_services.py:155 - Skipping issue with title: Test issue
+2025-03-14T14:19:33Z - DEBUG - repo_services.py:155 - Skipping issue with title: Test issue
+2025-03-14T14:19:33Z - DEBUG - repo_services.py:155 - Skipping issue with title: Test issue
+2025-03-14T14:19:33Z - INFO - repo_services.py:176 - ✅ Updated issues for hugokar-task-1
+2025-03-14T14:19:33Z - INFO - repo_services.py:60 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-14T14:19:33Z - INFO - repo_services.py:93 - ✅ Cloned repo for test_user-task-1
+2025-03-14T14:19:33Z - INFO - repo_services.py:142 - ⤵️  Fetching issues for test_user-task-1
+2025-03-14T14:19:33Z - DEBUG - repo_services.py:158 - Skipping issue by non TA: fake_ta
+2025-03-14T14:19:33Z - INFO - repo_services.py:176 - ✅ Updated issues for test_user-task-1
+2025-03-14T14:19:33Z - INFO - repo_services.py:60 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-14T14:19:33Z - ERROR - repo_services.py:47 - ❌ Error loading user data: File is empty. (Can be ignored)
+2025-03-14T14:19:33Z - DEBUG - repo_services.py:48 - ✅ Creating new user data structure.
+2025-03-14T14:19:33Z - INFO - repo_services.py:60 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-14T14:21:29Z - INFO - repo_services.py:142 - ⤵️  Fetching issues for hugokar-task-1
+2025-03-14T14:21:29Z - DEBUG - repo_services.py:155 - Skipping issue with title: Test issue
+2025-03-14T14:21:29Z - DEBUG - repo_services.py:155 - Skipping issue with title: Test issue
+2025-03-14T14:21:29Z - DEBUG - repo_services.py:155 - Skipping issue with title: Test issue
+2025-03-14T14:21:29Z - DEBUG - repo_services.py:155 - Skipping issue with title: Test issue
+2025-03-14T14:21:29Z - DEBUG - repo_services.py:155 - Skipping issue with title: Test issue
+2025-03-14T14:21:29Z - DEBUG - repo_services.py:155 - Skipping issue with title: Test issue
+2025-03-14T14:21:29Z - DEBUG - repo_services.py:155 - Skipping issue with title: Test issue
+2025-03-14T14:21:29Z - INFO - repo_services.py:176 - ✅ Updated issues for hugokar-task-1
+2025-03-14T14:21:29Z - INFO - repo_services.py:60 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-14T14:21:29Z - INFO - repo_services.py:93 - ✅ Cloned repo for hugokar-task-1
+2025-03-14T14:21:29Z - INFO - repo_services.py:142 - ⤵️  Fetching issues for test_user-task-1
+2025-03-14T14:21:29Z - DEBUG - repo_services.py:158 - Skipping issue by non TA: fake_ta
+2025-03-14T14:21:29Z - INFO - repo_services.py:176 - ✅ Updated issues for test_user-task-1
+2025-03-14T14:21:29Z - INFO - repo_services.py:60 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-14T14:21:29Z - ERROR - repo_services.py:47 - ❌ Error loading user data: File is empty. (Can be ignored)
+2025-03-14T14:21:29Z - DEBUG - repo_services.py:48 - ✅ Creating new user data structure.
+2025-03-14T14:21:29Z - INFO - repo_services.py:60 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-14T14:27:43Z - INFO - repo_services.py:142 - ⤵️  Fetching issues for hugokar-task-1
+2025-03-14T14:27:43Z - DEBUG - repo_services.py:155 - Skipping issue with title: Test issue
+2025-03-14T14:27:43Z - DEBUG - repo_services.py:155 - Skipping issue with title: Test issue
+2025-03-14T14:27:43Z - DEBUG - repo_services.py:155 - Skipping issue with title: Test issue
+2025-03-14T14:27:43Z - DEBUG - repo_services.py:155 - Skipping issue with title: Test issue
+2025-03-14T14:27:43Z - DEBUG - repo_services.py:155 - Skipping issue with title: Test issue
+2025-03-14T14:27:43Z - DEBUG - repo_services.py:155 - Skipping issue with title: Test issue
+2025-03-14T14:27:43Z - DEBUG - repo_services.py:155 - Skipping issue with title: Test issue
+2025-03-14T14:27:43Z - DEBUG - repo_services.py:155 - Skipping issue with title: Test issue
+2025-03-14T14:27:43Z - INFO - repo_services.py:176 - ✅ Updated issues for hugokar-task-1
+2025-03-14T14:27:43Z - INFO - repo_services.py:60 - ✅ Saved user data to /Users/maximilian/Documents/GitHub/INDA-manager/data/info/students.json
+2025-03-14T14:32:45Z - INFO - repo_services.py:93 - ✅ Cloned repo for maadf-task-1
+2025-03-14T14:34:04Z - ERROR - repo_services.py:98 - ❌ Error handling repo for maadf-task-1: name 'org_name' is not defined
+2025-03-14T14:34:20Z - INFO - repo_services.py:93 - ✅ Cloned repo for maadf-task-1
+2025-03-14T14:37:12Z - INFO - repo_services.py:93 - ✅ Cloned repo for maadf-task-1
+2025-03-14T14:37:12Z - INFO - repo_services.py:132 - ✅ Stored clone commit for maadf-task-1
+2025-03-14T14:37:12Z - ERROR - repo_services.py:63 - ❌ Error saving user data: Object of type MagicMock is not JSON serializable
+2025-03-14T14:43:23Z - INFO - repo_services.py:84 - ✅ No updates for testuser-task-1, latest commit hash is the same.
+2025-03-14T14:43:23Z - INFO - repo_services.py:95 - ✅ Cloned repo for newuser-task-2
