@@ -32,15 +32,12 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          python -m venv .venv
-          source .venv/bin/activate
-          pip install --upgrade pip
-          pip install -r requirements.txt
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt  # ✅ Install globally for the runner
 
       - name: Run Tests
         run: |
-          source .venv/bin/activate
-          pytest tests/test_repo_services.py --cov=backend.services.repo_services --cov-report=xml
+          pytest tests/test_repo_services.py --cov=backend.services.repo_services --cov-report=xml  # ✅ No need to activate virtualenv
 
       - name: Upload Coverage Report
         uses: codecov/codecov-action@v3
