@@ -1,3 +1,5 @@
+[![Services](https://github.com/MaximilianAdF/INDA-manager/actions/workflows/test.yml/badge.svg)](https://github.com/MaximilianAdF/INDA-manager/actions/workflows/test.yml)
+
 use the virutal environment: `source .venv/bin/activate`
 
 view logs in realtime: `tail -f logs/app.log`
